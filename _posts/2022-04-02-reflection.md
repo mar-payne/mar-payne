@@ -8,6 +8,7 @@ For the first few weeks of this course, I remember being very confused about the
 
 ## Review Project
 Along the way of defining and understanding DH, I have come across class projects that I loved. For example, our Review Project was one of my favorites. Before we even wrote our own reviews, we prepared by looking at the [_Reviews in Digital Humanities_](https://reviewsindh.pubpub.org/) website. Through this, I found some amazing projects. Specifically, the [“Indian Community Cookbooks Project,”](https://communitycookbooks.wixsite.com/website/) in which undergraduate students in Pune, India created an open-access cookbook of local Indian cuisines. This project made me realize just how important and impactful DH could be. I was especially inspired by the fact that students studying psychology and marketing could create a DH project, rather than just those studying computer science. 
+
 ![Community Cookbook Website](https://mar-payne.github.io/mar-payne/image/communitycookbook.png)
 
 ### Readings
@@ -23,6 +24,7 @@ I really enjoyed the Google Drive Activities. After many of our discussions, we 
 These activities also helped with procrastination. Since I had ideas written down, I could more easily dive into the project. Sometimes it was frustrating when I did not not have enough time to get my thoughts down. However, I still appreciated the time given. 
 
 Here is an example of one of the class activities. In it, we had to write an opening line for our grant project. I actually ended up using this as my first line, with only a few tweaks added for clarity. 
+
 ![Attica Doc Activity](https://mar-payne.github.io/mar-payne/image/atticaopeningline.png)
 
 ## Writing Improvements
