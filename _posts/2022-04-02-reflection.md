@@ -9,7 +9,7 @@ Along the way of defining and understanding DH, I have come across class project
 
 
 ### Readings
-There were also quite a few readings I found helpful over the course. A popular one among my classmates and I was the [_Text Scanning Patterns: Eyetracking Evidence by Kara Pernice](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/). In this reading, I learned about different scanning patterns that readers use when looking at material online. I feel that this gave us the insight needed to write all of our blogs. Even now, I referred to this reading while writing this blog.
+There were also quite a few readings I found helpful over the course. A popular one among my classmates and I was the [_Text Scanning Patterns: Eyetracking Evidence_ by Kara Pernice](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/). In this reading, I learned about different scanning patterns that readers use when looking at material online. I feel that this gave us the insight needed to write all of our blogs. Even now, I referred to this reading while writing this blog.
 
 
 Another example was the readings we did to prepare for our grant project. They were extremely helpful in my understanding of grant writing. Specifically, we read a few chapters from Ellen W. Gorsevski’s book _Writing Successful Grant Proposals_. Her writing helped me the most with my grant writing, as she documented exactly what I should put into it. I even shared it with someone I knew who was in the process of writing grants. Since this was my first time writing one, I felt that these readings definitely prepared me well. 
