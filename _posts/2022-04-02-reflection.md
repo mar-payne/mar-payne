@@ -11,7 +11,7 @@ Along the way of defining and understanding DH, I have come across class project
 
 ![Community Cookbook Website](https://mar-payne.github.io/mar-payne/image/communitycookbook.png)
 
-### Readings
+## Readings
 There were also quite a few readings I found helpful over the course. A popular one among my classmates and I was the [_Text Scanning Patterns: Eyetracking Evidence_ by Kara Pernice](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/). In this reading, I learned about different scanning patterns that readers use when looking at material online. I feel that this gave us the insight needed to write all of our blogs. Even now, I referred to this reading while writing this blog.
 
 
