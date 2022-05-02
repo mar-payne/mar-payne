@@ -23,7 +23,7 @@ I really enjoyed the Google Drive Activities. After many of our discussions, we 
 These activities also helped with procrastination. Since I had ideas written down, I could more easily dive into the project. Sometimes it was frustrating when I did not not have enough time to get my thoughts down. However, I still appreciated the time given. 
 
 Here is an example of one of the class activities. In it, we had to write an opening line for our grant project. I actually ended up using this as my first line, with only a few tweaks added for clarity. 
-! [Attica Doc Activity](https://mar-payne.github.io/mar-payne/image/atticaopeningline.png)
+![Attica Doc Activity](https://mar-payne.github.io/mar-payne/image/atticaopeningline.png)
 
 ## Writing Improvements
 Throughout the course, I feel that I have especially grown as a writer. Before, I had mostly written academic papers which required me to write in a specific format. In this course, however, the blogs and grants twe wrote taught me different styles of writing. I have learned how to write more concisely and with less jargon, to write smaller paragraphs, and to be more enthusiastic with my writing. For the most part, this is different from traditional academic writing. 
