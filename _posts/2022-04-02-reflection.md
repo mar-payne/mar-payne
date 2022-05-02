@@ -6,7 +6,7 @@ For the first few weeks of this course, I remember being very confused about the
 
 ### Review Project
 Along the way of defining and understanding DH, I have come across class projects that I loved. For example, our Review Project was one of my favorites. Before we even wrote our own reviews, we prepared by looking at the [_Reviews in Digital Humanities_](https://reviewsindh.pubpub.org/) website. Through this, I found some amazing projects. Specifically, the [“Indian Community Cookbooks Project,”](https://communitycookbooks.wixsite.com/website/) in which undergraduate students in Pune, India created an open-access cookbook of local Indian cuisines. This project made me realize just how important and impactful DH could be. I was especially inspired by the fact that students studying psychology and marketing could create a DH project, rather than just those studying computer science. 
-[Community Cookbook Website](mar-payne.github.io/mar-payne/image/communitycookbook.png)
+[Community Cookbook Website](mar-payne.github.io/mar-payne/images/communitycookbook.png)
 
 ### Readings
 There were also quite a few readings I found helpful over the course. A popular one among my classmates and I was the [_Text Scanning Patterns: Eyetracking Evidence_ by Kara Pernice](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/). In this reading, I learned about different scanning patterns that readers use when looking at material online. I feel that this gave us the insight needed to write all of our blogs. Even now, I referred to this reading while writing this blog.
